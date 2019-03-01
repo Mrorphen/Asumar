@@ -15,7 +15,7 @@ public class ASumar {
 		return numero; 
 }
 	public int total() {
-        int suma = 0;
+        int suma = 5;
 
         for (int i = 0; i < valor_inicial.length(); i++) {
             // Cadena de un dígito.
